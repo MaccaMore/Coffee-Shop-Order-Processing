@@ -145,7 +145,7 @@ public class CoffeeShopGUI extends JFrame implements ActionListener {
             JPanel imagePanel = new JPanel();
                 imagePanel.setLayout(new FlowLayout());
                 JLabel imageLabel = new JLabel();
-                ImageIcon logo = new ImageIcon("src/stage2_AshleyMckinnon/logo.png");
+                ImageIcon logo = new ImageIcon("src/CoffeeShopApp/logo.png");
                 imageLabel.setIcon(logo);
                 imagePanel.add(imageLabel);
 
