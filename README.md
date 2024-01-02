@@ -12,7 +12,7 @@ Final project for my university unit 'Intermediate Object Oriented Programming'.
 
 
 ## Demo
-![Screen Recording 2024-01-02 at 6 34 39 pm](https://github.com/MaccaMore/Coffee-Shop-Order-Processing/assets/126552741/0995e600-72a7-4de9-9f2f-18cfaf5ea42b)
+![Screen Recording 2024-01-02 at 6 34 39 pm (1)](https://github.com/MaccaMore/Coffee-Shop-Order-Processing/assets/126552741/7e08b9bb-37cb-45f5-b874-55d0b060416f)
 ![Screen Recording 2024-01-02 at 6 37 24 pm](https://github.com/MaccaMore/Coffee-Shop-Order-Processing/assets/126552741/60df81d1-5d38-45e4-a9b9-8de2820de15b)
 
 
