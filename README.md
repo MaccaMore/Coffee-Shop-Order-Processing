@@ -12,11 +12,13 @@ Final project for my university unit 'Intermediate Object Oriented Programming'.
 
 
 ## Demo
-![Screen Recording 2024-01-02 at 6 03 53 pm](https://github.com/MaccaMore/Coffee-Shop-Order-Processing/assets/126552741/7d2be5c8-9712-4507-8ff9-447d63de3479)
 
-![Screen Recording 2024-01-02 at 6 06 47 pm](https://github.com/MaccaMore/Coffee-Shop-Order-Processing/assets/126552741/db13b27f-1952-48d4-96cd-35f1bfb3e59b)
-
+![Screen Recording 2024-01-02 at 6 03 53 pm (1)](https://github.com/MaccaMore/Coffee-Shop-Order-Processing/assets/126552741/a300860c-67be-4a4e-ae64-100748e30a09)
 
 
->I'm using this to build a portfolio and share progress on my programming skills. I know it's nothing special, but I am slowly working on building up my GitHub profile!
+![Screen Recording 2024-01-02 at 6 06 47 pm (1)](https://github.com/MaccaMore/Coffee-Shop-Order-Processing/assets/126552741/4c315719-6919-42ac-bc1b-98fdd650f8a3)
+
+
+
+>I'm using this to build a portfolio and share progress on my programming skills. I know it's nothing special, but I am slowly working on building up my GitHub profile 😊
 
