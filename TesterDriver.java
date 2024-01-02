@@ -24,12 +24,7 @@ public class TesterDriver {
 
     // Main method
     public static void main(String[] args) throws SQLException {
-        /*
-         Create a new object of the Database class
-         The first time a database object is created, it will initialise the data
-         Previous iteration created a new database everytime data was needed, which was inefficient
-         because the SQL server would need to be contacted constantly.
-        */
+
         db = new Database();
         // Create new ArrayList to store dummy data
         dummyOrders = new ArrayList<>();
